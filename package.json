@@ -33,7 +33,7 @@
     "@codemirror/lang-html": "^6.4.6",
     "@codemirror/lang-javascript": "^6.2.1",
     "@codemirror/lang-json": "^6.0.1",
-    "@codemirror/language": "^6.9.0",
+    "@codemirror/language": "^6.10.8",
     "@codemirror/theme-one-dark": "^6.1.2",
     "@medv/finder": "^3.1.0",
     "@n8n_io/riot-tmpl": "^2.0.0",
